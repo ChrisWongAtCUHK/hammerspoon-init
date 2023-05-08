@@ -72,3 +72,5 @@ If you call "ctrl + cmd + alt + 3", it will apply all layouts you defined.
 
 If you call "ctrl + cmd + alt + 4", the layout will be applied only on the focused application.
 
+#### References
+* [Hello World](https://www.hammerspoon.org/go/#helloworld)
